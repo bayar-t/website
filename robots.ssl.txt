@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /advanced-marketing-platform
+Disallow: /services-step-2
+Disallow: /success
